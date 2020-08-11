@@ -1,0 +1,24 @@
+{
+  "name": "otus-auto-js-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjavar/otus-auto-js-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjavar/otus-auto-js-course/issues"
+  },
+  "homepage": "https://github.com/sjavar/otus-auto-js-course#readme",
+  "devDependencies": {
+    "codeceptjs": "^2.6.8",
+    "puppeteer": "^5.2.1"
+  }
+}
